@@ -13,11 +13,13 @@ $ npm install -g node-diff-bin
 ## Usage
 
 Print the patch output inside the console:
+
 ``` bash
 $ node-diff first.file second.file
 ```
 
 Save the patch output to a patch file 'first-second.patch':
+
 ``` bash
 $ node-diff first.file second.file first-second.patch
 ```
