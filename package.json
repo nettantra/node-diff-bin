@@ -37,7 +37,7 @@
     "grunt": "^0.4.5"
   },
   "scripts": {
-    "test": "node_modules/.bin/grunt ci"
+    "test": "grunt ci"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
