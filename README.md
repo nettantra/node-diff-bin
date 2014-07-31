@@ -18,7 +18,7 @@ Print the patch output inside the console:
 $ node-diff first.file second.file
 ```
 
-Save the patch output to a patch file 'first-second.patch':
+Save the patch output to a patch file `first-second.patch`:
 
 ``` bash
 $ node-diff first.file second.file first-second.patch
